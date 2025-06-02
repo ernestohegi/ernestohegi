@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=ernestohegi&theme=neon)](https://git.io/streak-stats)
+
 <!--
 **ernestohegi/ernestohegi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
