@@ -1,12 +1,12 @@
 ## Hi there 👋
 
+I'm Ernesto — a full-stack engineer who loves ✈️ travel, 📷 photography, 🎮 games, and 💻⚙️ building sofware.
+
 [![GitHub Streak](https://github-readme-streak-stats-omega-six.vercel.app?user=ernestohegi&theme=dark-minimalist&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ernestohegi&layout=compact&theme=radical)
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=ernestohegi&theme=onedark)
-
-I'm Ernesto — a full-stack engineer who loves ✈️ travel, 📷 photography, 🎮 games, and 💻⚙️ building sofware.
 
 - 🔭 I’m currently working on: language learning apps, AI integrations, microcontrollers, games.
 - 🌱 I’m currently learning: embedded systems, Raspberry PI Pico and Micropython.
