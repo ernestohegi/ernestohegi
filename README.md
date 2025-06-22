@@ -4,7 +4,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ernestohegi&layout=compact&theme=radical)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ernestohegitheme=onedark)](https://github.com/ernestohegi)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=ernestohegitheme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 I'm Ernesto — a full-stack engineer who loves ✈️ travel, 📷 photography, 🎮 games, and 💻⚙️ building sofware.
 
