@@ -1,6 +1,6 @@
-## Hi there 👋
+## Oh, hi, I didn't see you there 👋
 
-I'm Ernesto — a full-stack engineer who loves ✈️ travel, 📷 photography, 🎮 games, 🍣 culinary adventures and 💻⚙️ building sofware.
+I'm Ernesto, a full-stack engineer who loves ✈️ travel, 📷 photography, 🎮 games, 🍣 culinary adventures and 💻⚙️ building sofware.
 
 [![GitHub Streak](https://github-stats.ernestohegi.com?user=ernestohegi&theme=tokyonight)](https://git.io/streak-stats)
 
@@ -8,9 +8,10 @@ I'm Ernesto — a full-stack engineer who loves ✈️ travel, 📷 photography,
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=ernestohegi&theme=onedark)
 
-- 🔭 I’m currently working on: language learning apps, AI integrations, microcontrollers, games.
-- 🌱 I’m currently learning: embedded systems, Raspberry PI Pico and Micropython.
-- 👯 I’m looking to collaborate on: fun projects that help people.
-- 💬 Ask me about: manga, gunpla, photography, football, travelling, photography.
+- 🐧 Love Ubuntu and Gnome, but appreciate the DIY ethos of Arch.
+- 🔭 Currently working on: language learning apps, AI integrations, microcontrollers, games.
+- 🌱 Currently learning: embedded systems, Raspberry PI Pico and Micropython.
+- 👯 Looking to collaborate on: fun projects that help people.
+- 💬 Ask me about: manga, gunpla, photography, football, travelling.
 - 📫 How to reach me: f4dnycv6j@mozmail.com
 - ⚡ Fun fact: ¿Sabés qué es un moño? Pues un añimal que come bañañas.
