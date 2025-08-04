@@ -4,11 +4,11 @@ I'm Ernesto, a full-stack engineer who loves ✈️ travel, 📷 photography, �
 
 [![GitHub Streak](https://github-stats.ernestohegi.com?user=ernestohegi&theme=tokyonight)](https://git.io/streak-stats)
 
-![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=changethefuture)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ernestohegi&layout=compact&theme=radical)
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=ernestohegi&theme=onedark)
+
+![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=changethefuture)
 
 - 🐧 Love Ubuntu and Gnome, but appreciate the DIY ethos of Arch.
 - 🔭 Currently working on: language learning apps, AI integrations, microcontrollers, games.
