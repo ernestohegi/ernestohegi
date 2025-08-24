@@ -8,7 +8,7 @@ I'm Ernesto, a full-stack engineer who loves ✈️ travel, 📷 photography, �
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=ernestohegi&theme=onedark)
 
-- 🐧 Just moved from Ubuntu to Arch. No turning back now.
+- 🐧 Favourite distro: Arch with a soft spot for Ubuntu.
 - 🔭 Currently working on: language learning apps, AI integrations, microcontrollers, games.
 - 🌱 Currently learning: embedded systems, Raspberry PI Pico and Micropython.
 - 👯 Looking to collaborate on: fun projects that help people.
