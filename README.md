@@ -2,7 +2,7 @@
 
 I'm Ernesto, a full-stack engineer who loves ✈️ travel, 📷 photography, 🎮 games, 🍣 culinary adventures and 💻⚙️ building sofware.
 
-[![GitHub Streak](https://github-stats.ernestohegi.com?user=ernestohegi&theme=tokyonight-duo)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-stats.ernestohegi.com?user=ernestohegi&theme=tokyonight)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ernestohegi&layout=compact&theme=radical)
 
