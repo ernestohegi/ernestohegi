@@ -8,7 +8,7 @@ I'm Ernesto, a full-stack engineer who loves ✈️ travel, 📷 photography, �
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=ernestohegi&theme=onedark&v=123)
 
-- 🐧 Favourite distros: Ubuntu, Fedora and Arch.
+- 🐧 Favourite distros: Fedora for daily drive and Arch to learn about Linux.
 - 🔭 Currently working on: language learning assistants, AI integrations, microcontrollers, games.
 - 🌱 Currently learning: embedded systems, Raspberry PI Pico and Micropython.
 - 👯 Looking to collaborate on: language learning, music, travel projects.
