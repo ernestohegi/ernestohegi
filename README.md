@@ -4,10 +4,6 @@ I'm Ernesto, a full-stack engineer who loves ✈️ travel, 📷 photography, �
 
 [![GitHub Streak](https://github-stats.ernestohegi.com?user=ernestohegi&theme=tokyonight)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ernestohegi&layout=compact&theme=radical)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=ernestohegi&theme=onedark&v=123)
-
 - 🐧 Favourite distros: Fedora for daily drive and Arch to learn about Linux.
 - 🔭 Currently working on: language learning assistants, AI integrations, microcontrollers, games.
 - 🌱 Currently learning: embedded systems, Raspberry PI Pico and Micropython.
